@@ -6,3 +6,4 @@
 [3_занятие_циклы](https://colab.research.google.com/drive/1MWKsp4OLj3ZVFTXIUgrRrdThBt2X6r04?usp=sharing) </br>
 [4_занятие_break_continue_вложенные_циклы](https://colab.research.google.com/drive/1wZSQRtWmFS5paI2xqYqGlBc3lnCawj41?usp=sharing)</br>
 [5_множества](https://colab.research.google.com/drive/1-LaoUOCreRVTGLgh5AK-yW5nssl0FVhv?usp=sharing)
+[6_строки_и_индексы](https://colab.research.google.com/drive/1FgRYifF0W0M5Mj3oP2mu6Ex6zKL8oTL8?usp=sharing)
