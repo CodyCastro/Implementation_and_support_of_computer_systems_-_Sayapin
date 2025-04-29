@@ -9,3 +9,6 @@
 [6_строки_и_индексы](https://colab.research.google.com/drive/1FgRYifF0W0M5Mj3oP2mu6Ex6zKL8oTL8?usp=sharing) </br>
 [7_строки_срезы](https://colab.research.google.com/drive/13Lz5QPqOSIF_ftaJl-0CkpcCrNI4Nfzx?usp=sharing) </br>
 [11_кортежи](https://colab.research.google.com/drive/1uKU5q3yg5k3ad5XKgNF358BzgYdtJAR1?usp=sharing) </br>
+[12_методы_split_join](https://colab.research.google.com/drive/1QMpZSKQgCm-z8tM0-iIQ-LhQHspKogvY?usp=sharing) </br>
+[13_методы_списков_и_строк](https://colab.research.google.com/drive/1O0BElTixdKWx3uAV9IMGV-XL-uTSzkI3?usp=sharing) </br>
+[14_вложенные_списки](https://colab.research.google.com/drive/1FHkYmId_xcmrY9U4FoFyNplz0_Djk2h0?usp=sharing) </br>
