@@ -12,3 +12,8 @@
 [12_методы_split_join](https://colab.research.google.com/drive/1QMpZSKQgCm-z8tM0-iIQ-LhQHspKogvY?usp=sharing) </br>
 [13_методы_списков_и_строк](https://colab.research.google.com/drive/1O0BElTixdKWx3uAV9IMGV-XL-uTSzkI3?usp=sharing) </br>
 [14_вложенные_списки](https://colab.research.google.com/drive/1FHkYmId_xcmrY9U4FoFyNplz0_Djk2h0?usp=sharing) </br>
+[15_словари](https://colab.research.google.com/drive/1aHTsP1pEJZxWiFRYC2xM0FnniY_qMrXl?usp=sharing) </br>
+[16_функции_основы](https://colab.research.google.com/drive/1VLx6ar5KU-RKEqtyT8N_qtWgOHWSj3p9?usp=sharing) </br>
+[17_функции_возврат_значений](https://colab.research.google.com/drive/1JbVV9LVPy9-9YWQfG1rGeSYCzg_drowl?usp=sharing) </br>
+[18_функции_области_видимости_переменных](https://colab.research.google.com/drive/13871_DkTAzErAg8h0DVnjt3UdahiWTV_?usp=sharing) </br>
+[19_функции_передача_параметров](https://colab.research.google.com/drive/1vX5oci9rNDZZk0W5L7gZfP5eaY3mdblr?usp=sharing) </br>
